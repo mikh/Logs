@@ -1,0 +1,21 @@
+
+
+Sat Jan 1 00:00:15 UTC 2000
+Fetching origin
+fatal: Unable to look up github.com (port 9418) (Name or service not known)
+error: Could not fetch origin
+HEAD is now at 3f84979 Fixed Exception handeling. Missing Sensor stuff
+
+
+Sat Jan 1 00:00:18 UTC 2000
+Fetching origin
+From git://github.com/GabrielBegun/SeniorDesign
+   3f84979..dedfa73  master     -> origin/master
+HEAD is now at dedfa73 increase pilot message delay to 800
+
+
+Sat Jan 1 00:00:19 UTC 2000
+Fetching origin
+fatal: Unable to look up github.com (port 9418) (Name or service not known)
+error: Could not fetch origin
+HEAD is now at dedfa73 increase pilot message delay to 800
